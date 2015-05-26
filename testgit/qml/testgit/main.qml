@@ -13,4 +13,7 @@ Rectangle {
             Qt.quit();
         }
     }
+    Text{
+        text:"a"
+    }
 }
