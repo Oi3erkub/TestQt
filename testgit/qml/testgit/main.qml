@@ -14,6 +14,6 @@ Rectangle {
         }
     }
     Text{
-        text:"a"
+        text:"asf"
     }
 }
